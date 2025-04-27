@@ -7,5 +7,7 @@
 - Lately, I've been studying **Java and C++**.
 - I'm a Computer Science student at the **Federal University of Juiz de Fora (UFJF)**.
 
+---
+
 <p align="center"><i>You can choose courage, or you can choose comfort, but you cannot choose both.</i></p>
 <p align="center"><i>Brene Brown</i></p>
