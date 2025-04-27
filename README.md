@@ -1,9 +1,9 @@
 <div align="center">
-[<img src="./assets/katana.png">]
+<img src="./assets/katana.png">
 </div>
 
 <div align="center">
-# Welcome to my profile! ☕
+#Welcome to my profile! ☕
 </div>
 
 ```Java
