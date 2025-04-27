@@ -2,16 +2,10 @@
 <img src="./assets/katana.png">
 </div>
 
-<div align="center">
-## Welcome to my profile! ☕
-</div>
+## Hi there, my name is Isadora. Welcome to my profile! ☕
+- You can refer to me using the pronouns **she/her**.
+- Lately, I've been studying **Java and C++**.
+- I'm a Computer Science student at the **Federal University of Juiz de Fora (UFJF)**.
 
-```Java
-public class ReadMe {
-  public static void main(String[] args){
-    String name = "Isadora";
-    String pronouns = "she/her";
-    String learningWhatActually = "Java and C++";
-  }
-}
-```
+<p align="center"><i>You can choose courage, or you can choose comfort, but you cannot choose both.</i></p>
+<p align="center"><i>Brene Brown</i></p>
