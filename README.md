@@ -10,4 +10,4 @@
 ---
 
 <p align="center"><i>You can choose courage, or you can choose comfort, but you cannot choose both.</i></p>
-<p align="center"><i>Brene Brown</i></p>
+<p align="center"><i><strong>Brene Brown</strong></i></p>
