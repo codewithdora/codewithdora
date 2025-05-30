@@ -4,8 +4,9 @@
 
 ## Hi there, my name is Isadora. Welcome to my profile! ☕
 - You can refer to me using the pronouns **she/her**.
-- Lately, I've been studying **Java and C++**.
-- I'm a Computer Science student at the **Federal University of Juiz de Fora (UFJF)**.
+- Lately, I've been studying **Java, C++ and Python**.
+- I'm a Computer Science student at **Federal University of Juiz de Fora (UFJF)**.
+- Honestly, I'm pretty interested in some areas like **AI, Cybersecurity and Back-end development**, but I'm not sure exactly about which area I'm going to stay working. Only the time will answer this question... 👀
 
 ---
 
